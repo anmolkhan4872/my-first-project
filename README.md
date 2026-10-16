@@ -1,3 +1,4 @@
 # my-first-project
 This is my first Git Repository.
-author - Anmol khan
+<br>
+Author - Anmol khan
